@@ -4,3 +4,5 @@
 * Images and monsters info calling two different apis
 * Deploy on Github Pages
 
+[DEMO](https://jaumeserr.github.io/monsters-rolodex/)
+
